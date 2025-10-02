@@ -67,7 +67,7 @@
 
         }
         </script>
-        <script  src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBZKR75mTN506-OtxNy3-QvhNadmTBu-Sk&callback=initMap"
+        <script  src="your api key"
         async defer></script>
 
           <p align="center"style="color:black;font-size:15px;"><b>Please Select and Submit Your Current Position on Map:</b></p>
